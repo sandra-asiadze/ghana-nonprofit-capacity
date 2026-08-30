@@ -2,7 +2,7 @@
 
 Data and analysis code for the paper *International development partnerships and nonprofit capacity in Ghana: review and practitioner evidence* by Sandra Makafui Asiadze (2026).
 
-**Preprint:**(https://osf.io/preprints/socarxiv/sbgez_v1)
+**Preprint:** https://osf.io/preprints/socarxiv/sbgez_v1
 
 ## What this paper does
 
