@@ -44,7 +44,7 @@ This repository deliberately excludes raw call notes, organisation names, respon
 
 ## Citation
 
-> Asiadze, S. M. (2026). *International development partnerships and nonprofit capacity in Ghana: review and practitioner evidence*. [Repository/preprint DOI to be added.]
+> Asiadze, S. M. (2026). *International development partnerships and nonprofit capacity in Ghana: review and practitioner evidence*. https://osf.io/preprints/socarxiv/sbgez_v1
 
 ## Licence
 
